@@ -7,8 +7,8 @@ The short answer: in the top-level directory of your web server.
 #### What to put in it
 The "/socialmedia.txt" file is a text file, with one or more records looking like this:<br>
 
-	Facebook: http://facebook.com/firechip<br>
-	Twitter: http://twitter.com/ajsb85
+	http://facebook.com/firechip
+	http://twitter.com/ajsb85
  
 #### List of social networking websites<br>
 [43 Things](http://en.wikipedia.org/wiki/43_Things "43 Things") Goal setting and achievement <br>
@@ -58,7 +58,7 @@ The "/socialmedia.txt" file is a text file, with one or more records looking lik
 [eToro](http://en.wikipedia.org/wiki/EToro "EToro") Social Investing, Finance <br>
 [Experience Project](http://en.wikipedia.org/wiki/Experience_Project "Experience Project") Life experiences <br>
 [Exploroo](http://en.wikipedia.org/wiki/Exploroo "Exploroo") Travel Social Networking. <br>
-[Facebook](http://en.wikipedia.org/wiki/Facebook "Facebook") General: Photos, Videos, Blogs, Apps. <br>
+[Facebook](http://en.wikipedia.org/wiki/Facebook "Facebook") General. Photos, Videos, Blogs, Apps. <br>
 [Faceparty](http://en.wikipedia.org/wiki/Faceparty "Faceparty") General. Popular UK. <br>
 [Faces.com](http://en.wikipedia.org/wiki/Faces.com "Faces.com") Adult Social Network, Mainly UK & USA <br>
 [Fetlife](http://en.wikipedia.org/wiki/Fetlife "Fetlife") People who are into BDSM <br>
