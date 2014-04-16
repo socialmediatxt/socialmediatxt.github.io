@@ -9,7 +9,12 @@ The "/socialmedia.txt" file is a text file, with one or more records looking lik
 
 	http://facebook.com/firechip
 	http://twitter.com/ajsb85
- 
+
+
+#### How to use
+
+	<link type="text/plain" rel="socialmedia" href="http://domain/socialmedia.txt" /> 
+	
 #### List of social networking websites<br>
 [43 Things](http://en.wikipedia.org/wiki/43_Things "43 Things") Goal setting and achievement <br>
 [Academia.edu](http://en.wikipedia.org/wiki/Academia.edu "Academia.edu") Social networking site for academics/researchers <br>
