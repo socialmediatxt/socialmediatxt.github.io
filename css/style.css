@@ -3,10 +3,8 @@ body {
      max-width: 980px;
      _width: 980px;
      padding: 30px 20px 50px;
-     border: 1px solid #b3b3b3;
-     border-radius: 4px;
      margin: 0 auto;
-     box-shadow: 0 1px 10px #a7a7a7, inset 0 1px 0 #fff;
+     box-shadow: 5px 5px 5px #222;
      background: #fff;
 }
 html {
@@ -14,7 +12,7 @@ html {
      font-size: 20px;
      line-height: 1.4;
      color: #737373;
-     background: #f1f1f1;
+     background: #34495e;
      -webkit-text-size-adjust: 100%;
      -ms-text-size-adjust: 100%;
 }
