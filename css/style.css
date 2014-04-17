@@ -1,0 +1,92 @@
+body {
+     font-family: 'Lato', sans-serif;
+     max-width: 980px;
+     _width: 980px;
+     padding: 30px 20px 50px;
+     margin: 0 auto;
+     box-shadow: 5px 5px 5px #222;
+     background: #fff;
+}
+html {
+     padding: 30px 10px;
+     font-size: 20px;
+     line-height: 1.4;
+     color: #737373;
+     background: #34495e;
+     -webkit-text-size-adjust: 100%;
+     -ms-text-size-adjust: 100%;
+}
+.container {
+    max-width: 900px;
+    _width: 900px;
+    margin: 0 auto;
+}
+pre {
+    margin: 8px 15px;
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+code, pre {
+    background: none no-repeat scroll left top #000000;
+    border: 1px solid #000000;
+    color: #F5F5F5;
+    display: block;
+    font-size: 13px;
+    margin: 0 0 10px;
+    opacity: 0.85;
+    padding: 9.5px;
+    text-shadow: none;
+}
+a { 
+    color: #4183c4; 
+    text-decoration: none; 
+}
+a:hover { 
+    text-decoration: underline; 
+}
+h1 {
+    font-size: 50px;
+    margin: 0 10px;
+    text-align: center;
+}
+p { 
+    color: rgba(0, 0, 0, 0.5); 
+    margin: 20px 0; 
+    line-height: 1.6; 
+}
+ul { 
+    list-style: none; 
+    margin: 25px 0; 
+    padding: 0; 
+}
+li {
+    display: table-cell; 
+    font-weight: bold; 
+    width: 1%; 
+}
+
+   /*   @media
+      only screen and (-webkit-min-device-pixel-ratio: 2),
+      only screen and (   min--moz-device-pixel-ratio: 2),
+      only screen and (     -o-min-device-pixel-ratio: 2/1),
+      only screen and (        min-device-pixel-ratio: 2),
+      only screen and (                min-resolution: 192dpi),
+      only screen and (                min-resolution: 2dppx) {
+        .logo-img-1x { display: none; }
+        .logo-img-2x { display: inline-block; }
+      }
+*/
+#pagefooter {
+    margin-top: 35px;
+    color: #ccc;
+    text-align: center;
+}
+#pagefooter a {
+    color: #666666;
+    font-weight: 200;
+    font-size: 14px;
+    margin: 0 10px;
+}
